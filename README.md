@@ -14,7 +14,7 @@ GitHub es una plataforma de desarrollo colaborativo de software para alojar proy
 5. (Opcional) Completa la encuesta sobre tus intereses en GitHub o simplemente haz clic en "Skip this step".
 6. Verifica tu dirección de correo electrónico para finalizar la creación de tu cuenta.
 
-## Paso 2: Crear un Nuevo Repositorio y adición de un README
+## Paso 2: Crear un Nuevo Repositorio, añadir y editar un README.md
 
 1. Una vez en tu perfil de GitHub, haz clic en "Repositories", luego en "New" en la esquina superior derecha.
 2. Asigna un nombre a tu repositorio (ejemplo; "IABD-ZV-PIA").
@@ -22,6 +22,14 @@ GitHub es una plataforma de desarrollo colaborativo de software para alojar proy
 4. Selecciona la visibilidad del repositorio (público o privado).
 5. Marca la opción "Add a README file".
 6. Haz clic en "Create repository".
+7. Abre tu repositorio recién creado haciendo clic en su nombre.
+8.	Haz clic en "README.md" para ver el archivo.
+9.	Haz clic en el icono del lápiz en la esquina superior derecha del visor de archivos para editar el README.
+10.	Ahora puedes agregar información en el archivo README.
+11.	Una vez que hayas terminado de hacer cambios, desplázate hacia abajo en la página hasta "Commit changes".
+12.	Agrega un mensaje de confirmación que describa los cambios que realizaste.
+13.	Haz clic en "Commit changes".
+
 
 ## Paso 3: Añadir un Script "Hola Mundo" en Python
 
