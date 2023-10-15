@@ -26,7 +26,7 @@ GitHub es una plataforma de desarrollo colaborativo de software para alojar proy
 ## Paso 3: Añadir un Script "Hola Mundo" en Python
 
 1. En tu nuevo repositorio, haz clic en "Add file" y selecciona "Create new file".
-2. Nombra el archivo con la extensión `.py` (por ejemplo, `hello_world.py`).
+2. Nombra el archivo con la extensión `.py` (por ejemplo, `Hola_Mundo.py`).
 3. En el área de edición del archivo, agrega el siguiente script de Python:
 
    ```python
